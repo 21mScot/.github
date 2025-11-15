@@ -6,6 +6,9 @@ labels: ["bug"]
 assignees: []
 ---
 
+<!-- type: bug -->
+<!-- Use this template to report something that is broken in existing behaviour. -->
+
 ## 🟦 Card  
 Short description of the defect.
 
