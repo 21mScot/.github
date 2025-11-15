@@ -6,6 +6,9 @@ labels: ["user story"]
 assignees: []
 ---
 
+<!-- type: story -->
+<!-- Use this template to report something that is broken in existing behaviour. -->
+
 ## Story
 
 **As a** [user / role / persona]  
