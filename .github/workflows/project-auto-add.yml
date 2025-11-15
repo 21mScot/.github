@@ -1,7 +1,0 @@
-on issue opened
-  read issue body
-  if contains <!-- type: bug -->   => type = "Bug"
-     else if feature              => type = "Feature"
-     else if story                => type = "Story"
-  add issue to project (if not already there)
-  set project item's "Type" field = type
