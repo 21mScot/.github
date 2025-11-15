@@ -1,6 +1,6 @@
 ---
 name: User story
-description: Create a new user story for product development
+about: Create a new user story for product development
 title: "[Story]: "
 labels: ["user story"]
 assignees: []
